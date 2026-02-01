@@ -187,7 +187,6 @@ display: inline-block;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("window.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -275,3 +274,4 @@ display: inline-block;
     border-radius: 12px;
 
 }
+

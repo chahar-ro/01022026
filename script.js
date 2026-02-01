@@ -1,3 +1,6 @@
+// Make all text white
+document.body.style.color = "white";
+
 // Elements
 const envelope = document.getElementById("envelope-container");
 const letter = document.getElementById("letter-container");
@@ -60,7 +63,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee!";
+    title.textContent = "That's my girllllllllll❤️🥰!";
 
     catImg.src = "cat_dance.gif";
 
@@ -69,4 +72,5 @@ yesBtn.addEventListener("click", () => {
     buttons.style.display = "none";
 
     finalText.style.display = "block";
+
 });
